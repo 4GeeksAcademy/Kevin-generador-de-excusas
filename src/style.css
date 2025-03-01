@@ -3,3 +3,9 @@
 body{
     background: white;
 }
+
+.container {
+    text-align: center;
+    margin-top: 25%
+}
+
